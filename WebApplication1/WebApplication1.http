@@ -2,4 +2,7 @@
 
 GET {{WebApplication1_HostAddress}}/api/v1/users/**
 Accept: application/json
+
+GET {{WebApplication1_HostAddress}}/api/v1/finance/**
+Accept: application/json
 ###

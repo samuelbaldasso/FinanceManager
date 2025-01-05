@@ -71,3 +71,4 @@ C:\Users\samukabaldasso\RiderProjects\WebApplication1\WebApplication1\bin\Debug\
 C:\Users\samukabaldasso\RiderProjects\WebApplication1\WebApplication1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\samukabaldasso\RiderProjects\WebApplication1\WebApplication1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\samukabaldasso\RiderProjects\WebApplication1\WebApplication1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\samukabaldasso\RiderProjects\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json

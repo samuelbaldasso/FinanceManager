@@ -15,7 +15,7 @@ namespace WebApplication1.Entities
         private string password;
         private string name;
         private string phone;
-
+        
         public string Name
         {
             get => name;
