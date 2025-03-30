@@ -42,13 +42,13 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/samuelbaldasso/Finance_Manager-C-Sharp-.NET-Entity-In_Memory_DB-MVC.git
+git clone https://github.com/samuelbaldasso/FinanceManager.git
 ```
 
 ### 2. Acesse o diretório do projeto
 
 ```bash
-cd Finance_Manager-C-Sharp-.NET-Entity-In_Memory_DB-MVC
+cd FinanceManager
 ```
 
 ### 3. Restaure as dependências
@@ -70,7 +70,7 @@ A aplicação estará disponível em `http://localhost:5094`.
 ## Estrutura do Projeto
 
 ```plaintext
-Finance_Manager-C-Sharp-.NET-Entity-In_Memory_DB-MVC/
+FinanceManager/
 ├── Controllers/        # Controladores responsáveis pela lógica de negócio
 ├── Models/             # Modelos representando entidades e regras de negócio
 ├── Views/              # Interface com o usuário (HTML, Razor)
